@@ -28,7 +28,7 @@ const siteProps = {
   title: "MERN Stack ,React Native Developer and AI/Ml Enthusiast",
   email: "MUHAMMAD.ADNANMUSHTAQ@studentambassadors.com",
   gitHub: "adnan855570",
-  instagram: "adnankhan855570",
+  instagram: "adnankhan8555",
   linkedIn: "https://www.linkedin.com/in/muhammad-adnan-mushtaq-9910a719b/",
   medium: "",
   twitter: "",
