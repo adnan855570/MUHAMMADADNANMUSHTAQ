@@ -52,7 +52,7 @@ const projectList = [
     title: "Ecommerce Fully Responsive website",
     description:
       "Ecommerce fully Responsive website with Html Css and JavaScript",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+    url: "https://adnan855570.github.io/Ecom1/",
   },
 ];
 
