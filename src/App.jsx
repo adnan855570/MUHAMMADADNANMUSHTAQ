@@ -29,7 +29,7 @@ const siteProps = {
   email: "MUHAMMAD.ADNANMUSHTAQ@studentambassadors.com",
   gitHub: "adnan855570",
   instagram: "Adnankhan8555",
-  linkedIn: "",
+  linkedIn: "MuhammadAdnanMushtaq",
   medium: "",
   twitter: "",
   youTube: "",
