@@ -29,7 +29,7 @@ const siteProps = {
   email: "MUHAMMAD.ADNANMUSHTAQ@studentambassadors.com",
   gitHub: "adnan855570",
   instagram: "adnankhan855570",
-  linkedIn: "Muhammmad Adnan Mushtaq",
+  linkedIn: "https://www.linkedin.com/in/muhammad-adnan-mushtaq-9910a719b/",
   medium: "",
   twitter: "",
   youTube: "",
